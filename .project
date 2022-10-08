@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SeleniumAssignment</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>README.md</name>
+			<type>1</type>
+			<location>C:/Users/ritiksonker/Downloads/README.md</location>
+		</link>
+		<link>
+			<name>src/test/resources/executables/chromedriver.exe</name>
+			<type>1</type>
+			<location>C:/Users/ritiksonker/Downloads/chromedriver_win32 (1)/chromedriver.exe</location>
+		</link>
+		<link>
+			<name>src/test/resources/executables/geckodriver.exe</name>
+			<type>1</type>
+			<location>C:/Users/ritiksonker/Downloads/geckodriver-v0.31.0-win64/geckodriver.exe</location>
+		</link>
+		<link>
+			<name>src/test/resources/executables/msedgedriver.exe</name>
+			<type>1</type>
+			<location>C:/Users/ritiksonker/Downloads/edgedriver_win64/msedgedriver.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
